@@ -1,0 +1,33 @@
+.imagepost{
+    margin-left: 70vh;
+    width: 60vh;
+    height: 30%;
+    border: 2px solid gray;
+    margin-bottom: 10vh;
+}
+.desc{
+    margin-left: -50vh;
+    color: rgb(68, 68, 176);
+    padding-left: 75px;
+}
+.dt{
+    margin-left: 83%;
+    margin-top: -8vh;
+}
+.likes{
+    margin-left: 25px;
+    margin-top: 10px;
+    color: rgb(18, 185, 18);
+}
+.date{
+    margin-left: 75%;
+    margin-top: -20px;
+    color: grey;
+}
+.like{
+    margin-top: 25px;
+}
+.comment{
+    height: 4vh;
+    border: 1px red;
+}
